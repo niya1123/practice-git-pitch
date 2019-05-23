@@ -16,6 +16,6 @@ defmodule Hello do
    def print(:ru), do: "Привет мир"
 end
 ```
-+++?code=hello.java
++++
 また、リポジトリにあるコードを貼り付けることも可能です!
-
+?code=hello.java
