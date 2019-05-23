@@ -1,1 +1,1 @@
-# Git Pitchを使おう!
+## Git Pitchを使おう!
