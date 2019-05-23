@@ -24,14 +24,10 @@ end
 ~~最近のお勧めvtuber~~
 - 因幡はねる |
 <img src="haneru.jpg" width="80">
-- シスター・クレア | 
-<img src="kurea.jpg" width="80">
+- アンジュ・カトリーナ | 
+<img src="anju.jpeg" width="80">
 - 本間ひまわり | 
 <img src="hima.jpeg" width="80">
-- リゼ・ヘルエスタ | 
-<img src="rize.jpeg" width="80">
-- アンジュ・カトリーナ |
-<img src="anju.jpeg" width="80">
 ---
 ### そのほかにも色々機能あります
 
