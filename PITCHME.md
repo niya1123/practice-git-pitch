@@ -22,8 +22,9 @@ end
 ---
 ## アニメーション
 ~~最近のお勧めvtuber~~
-- 因幡はねる
 <img src="haneru.jpg" width="200">
+- 因幡はねる |
+<img src="kurea.jpg" width="200"> |
 - シスター・クレア | 
 - 本間ひまわり | 
 - リゼ・ヘルエスタ | 
