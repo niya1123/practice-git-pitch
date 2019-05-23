@@ -18,5 +18,13 @@ end
 ```
 +++?code=hello.java
 また、リポジトリにあるコードを貼り付けることも可能です!
-+++?code=hello.java
++++
+```
+public class hello{
+    public static void main(String[] args) {
+        System.out.println("Hello GitPitch!");
+    }
+}
+```
 @[3](特定の場所をハイライトすることも可能!)
+ただし、リポジトリから読み込んだコードのハイライトはできない模様(できたら教えて)
