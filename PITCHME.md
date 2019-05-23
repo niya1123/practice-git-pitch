@@ -27,6 +27,7 @@ end
 - シスター・クレア | 
 <img src="kurea.jpg" width="80">
 - 本間ひまわり | 
+<img src="hima.jpeg" width="80">
 - リゼ・ヘルエスタ | 
 - アンジュ・カトリーナ |
 ---
